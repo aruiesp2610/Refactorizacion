@@ -25,6 +25,7 @@ public class Nomina {
         else
             nomina=nomina-128;
         return nomina;
+
     }
 
     // Se añade el public al método para hacer énfasis en que es public
